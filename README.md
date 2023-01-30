@@ -1,4 +1,4 @@
-# Machine Learning Model Deployed on Flask Application - Iris Dataset
+# Machine Learning Model Deployed on Flask Application
 
 # Iris Dataset Model
 ## Predict which species based on input user enters
